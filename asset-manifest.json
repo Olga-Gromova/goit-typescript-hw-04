@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/goit-typescript-hw-04/static/css/main.073c9b0a.css",
+    "main.js": "/goit-typescript-hw-04/static/js/main.56186ffd.js",
+    "static/js/787.9f003fc0.chunk.js": "/goit-typescript-hw-04/static/js/787.9f003fc0.chunk.js",
+    "static/media/logo.svg": "/goit-typescript-hw-04/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/goit-typescript-hw-04/index.html",
+    "main.073c9b0a.css.map": "/goit-typescript-hw-04/static/css/main.073c9b0a.css.map",
+    "main.56186ffd.js.map": "/goit-typescript-hw-04/static/js/main.56186ffd.js.map",
+    "787.9f003fc0.chunk.js.map": "/goit-typescript-hw-04/static/js/787.9f003fc0.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.56186ffd.js"
+  ]
+}
